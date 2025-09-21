@@ -16,7 +16,8 @@ The explosion spritesheet was released into the public domain by [StumpyStrust](
 None
 
 ## Future Development
-None
+Score, lives, game-start and game-end screens. In-game menu.
+
 
 ## Created by
-Nathan Mishler
+TJ Freson
